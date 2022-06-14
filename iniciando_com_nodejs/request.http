@@ -1,0 +1,15 @@
+POST http://localhost:4002/products
+content-Type: application/json
+
+{
+    "name": "Caderno 96 folhas",
+    "price": 16.00
+}
+
+###
+
+GET http://localhost:4002/products
+
+###
+
+GET http://localhost:4002/products/0052ca6e-244f-4c60-972f-ecdc8b69982b

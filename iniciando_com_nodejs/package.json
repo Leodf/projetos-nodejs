@@ -5,5 +5,8 @@
   "main": "index.js",
   "scripts": {},
   "author": "Leonardo de Faveri",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
